@@ -1,8 +1,8 @@
 Name:                state-plus
-Version:             0.1.2
+Version:             0.1.3
 License:             BSD3
 License-File:        COPYING
-Copyright:           Boris Sukholitko, 2014
+Copyright:           Boris Sukholitko, 2017
 Author:              Boris Sukholitko
 Maintainer:          boriss@gmail.com
 Cabal-version:       >= 1.8
